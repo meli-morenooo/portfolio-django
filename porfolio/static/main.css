@@ -1,0 +1,36 @@
+.logo{
+    height: 50px;
+}
+
+body{
+    background: #7f0000;
+    color: #fdfdfd;
+}
+
+/* #4b0082; */
+
+.fondo{
+    background: black;
+    border-radius: 2rem;
+}
+
+/* #973fd6 */
+
+.foto{
+    height: 300px;
+    border-radius: 10rem;
+    margin: 3rem 2rem;
+}
+
+li{
+    list-style: none;
+}
+
+.card-project{
+    border-radius: 10rem 10rem 2rem 2rem;
+}
+
+.card-project:hover{
+    border: 1px solid #fff;
+    cursor: pointer;
+}
